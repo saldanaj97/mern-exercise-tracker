@@ -4,3 +4,7 @@ This is a basic workout tracking application made by following the tutorial at: 
 ## Purpose
 The purpose of making this applcation was to continue learning how to put a frontend and backend together using the MERN tech stack. 
 
+## Skills worked/gained
+Practied: React, Node.js, RESTful APIs
+Gained: MogoDB, Express
+
