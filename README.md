@@ -6,5 +6,6 @@ The purpose of making this applcation was to continue learning how to put a fron
 
 ## Skills worked/gained
 Practied: React, Node.js, RESTful APIs
+
 Gained: MogoDB, Express
 
